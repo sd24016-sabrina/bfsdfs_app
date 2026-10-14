@@ -1,4 +1,0 @@
-streamlit
-network
-matplotlib
-pandas
